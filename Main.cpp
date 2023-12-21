@@ -5,6 +5,8 @@
 #include "Menu.h"
 #include "GameStyles.h"
 
+//Main driver code: puts title, menu, and gameplay together
+
 enum class MenuState {
     INTRO,
     MENU,
